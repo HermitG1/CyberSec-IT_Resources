@@ -119,3 +119,15 @@ More Books
 - TCP/IP Illustrated: The Protocols, Volume 1 by Kevin Fall & W. Stevens
 - PowerShell for Sysadmins: Workflow Automation Made Easy by Adam Bertram
 - Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming by Jason Cannon
+
+Subreddits
+- https://www.reddit.com/r/HowToHack/
+- https://www.reddit.com/r/hacking/
+- https://www.reddit.com/r/Hacking_Tutorials/
+- https://www.reddit.com/r/cybersecurity/
+- https://www.reddit.com/r/webdev/
+- https://www.reddit.com/r/linux4noobs/
+- https://www.reddit.com/r/learnpython/
+- https://www.reddit.com/r/learnprogramming/
+- https://www.reddit.com/r/gamedev/
+- 
