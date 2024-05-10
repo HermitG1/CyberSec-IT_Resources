@@ -32,7 +32,6 @@ This list is by no means comprehensive or the perfect representation of the best
 - https://thonny.org/
 - https://peps.python.org/pep-0008/
 - https://www.dataquest.io/blog/python-projects-for-beginners/
-- https://learn.udacity.com/my-programs?tab=Currently%2520Learning
 - http://www.openbookproject.net/thinkcs/python/english3e/
 - https://clcoding.gumroad.com/l/gwaaj
 - https://www.fantasydatapros.com/
