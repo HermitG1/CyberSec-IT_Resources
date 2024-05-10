@@ -4,11 +4,11 @@ I like many am attempting to build my career into cyber security and more.  I ha
 This list is by no means comprehensive or the perfect representation of the best methods to learn something.  I hope that we can fine tune this and make it better.  
 
 <b> Hands on CyberSec Learning Websites <b>
-- https://tryhackme.com/
+- https://tryhackme.com/ (My personal favorite great when you only have an hour or two and want to engage in some learning)
 - https://www.hackthebox.com/
 
 <b> Hands on CyberSec Projects <b>
-- https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web
+- https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_source=direct&utm_campaign=post&utm_medium=web (I did this project and really enjoyed it and learned alot)
 - https://facyber.me/posts/blue-team-lab-guide-part-10/
 - https://github.com/WaterExecution/vulnerable-AD-plus
 - https://github.com/0xBallpoint/LOAD
@@ -24,7 +24,7 @@ This list is by no means comprehensive or the perfect representation of the best
 - https://dev.to/pythonplumber/mastering-the-linux-command-line-essential-tips-and-tricks-pt1-5hhm
 - https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
 - https://linuxsimply.com/linux-basics/os-installation/virtual-machine/arch-linux-on-vmware/
-- Book: Linux Basics for Hackers by OccupyTheWeb
+- Book: Linux Basics for Hackers by OccupyTheWeb (Honestly breaks things down for step by step and i enjoyed it)
 - Book: The Linux Command Line by William Shotts
 
 <b> Python Learning <b>
@@ -34,21 +34,21 @@ This list is by no means comprehensive or the perfect representation of the best
 - https://www.dataquest.io/blog/python-projects-for-beginners/
 - http://www.openbookproject.net/thinkcs/python/english3e/
 - https://clcoding.gumroad.com/l/gwaaj
-- https://www.fantasydatapros.com/
+- https://www.fantasydatapros.com/ (Its not insanely in depth but i found it engaging as someone into fantasy sports)
 - Book: Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
 - Book: Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters by Just Seitz & Tim Arnold
 
 <b> Web Development Learning <b>
 - https://www.freecodecamp.org/
-- https://www.theodinproject.com/
+- https://www.theodinproject.com/ (Im currently working through this and really enjoying it)
 - https://www.reddit.com/r/learnprogramming/wiki/online/
 
 <b> Paid Courses Websites <b>
-- https://www.antisyphontraining.com/  (They actually have great free options as well)
+- https://www.antisyphontraining.com/  (They actually have great free options as well ive participated in three and learned TONS)
 - https://www.codecademy.com/
 - https://www.coursera.org/
 - https://www.udacity.com/
-- https://www.udemy.com/
+- https://www.udemy.com/ (Make sure to wait for a sale but there are alot of great courses on any topic you want for pretty cheap)
   
 <h2>CyberSec Tools</h2>
 
