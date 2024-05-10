@@ -20,7 +20,7 @@ This list is by no means comprehensive or the perfect representation of the best
 - https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/navigation.md
 
 <b> Linux Learning <b>
-- I would say you'll learn a lot of linux just from doing the above projects. 
+- I would say you'll learn a lot of linux just from doing many of the other projects and sites listed here. 
 - https://dev.to/pythonplumber/mastering-the-linux-command-line-essential-tips-and-tricks-pt1-5hhm
 - https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
 - https://linuxsimply.com/linux-basics/os-installation/virtual-machine/arch-linux-on-vmware/
