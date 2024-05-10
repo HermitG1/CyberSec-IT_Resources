@@ -25,6 +25,7 @@ This list is by no means comprehensive or the perfect representation of the best
 - https://training.linuxfoundation.org/resources/?_sft_content_type=free-course
 - https://linuxsimply.com/linux-basics/os-installation/virtual-machine/arch-linux-on-vmware/
 - Book: Linux Basics for Hackers by OccupyTheWeb
+- Book: The Linux Command Line by William Shotts
 
 <b> Python Learning <b>
 - https://www.fullstackpython.com/
@@ -36,6 +37,7 @@ This list is by no means comprehensive or the perfect representation of the best
 - https://clcoding.gumroad.com/l/gwaaj
 - https://www.fantasydatapros.com/
 - Book: Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
+- Book: Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters by Just Seitz & Tim Arnold
 
 <b> Web Development Learning <b>
 - https://www.freecodecamp.org/
@@ -100,3 +102,21 @@ Cool games that can help with navigating command line and an engaging way to lea
 Humble Bundle commonly has Book and Software bundles of tons of different IT, Cyber Security, Coding and Game Dev
 - https://www.humblebundle.com/books
 - https://www.humblebundle.com/software
+
+Podcasts
+- [Darknet Diaries](https://darknetdiaries.com/)
+- [Talkin' About News](https://podcasts.apple.com/us/podcast/talkin-about-infosec-news-powered-by-black-hills-information/id1410835265)
+- [The Cybersecurity Defenders Podcast](https://podcasts.apple.com/us/podcast/the-cybersecurity-defenders-podcast/id1649981740)
+
+Content Creators
+- https://grahamhelton.com/
+- https://www.youtube.com/@_JohnHammond 
+- https://www.youtube.com/@MyDFIR (A lot of cool hands on projects for resume building)
+- https://www.youtube.com/@davidbombal
+- https://www.youtube.com/@BlackHillsInformationSecurity (Their Webcasts are great)
+- https://www.youtube.com/@PirateSoftware / https://www.twitch.tv/PirateSoftware (A lot of game dev and some pentesting talk)
+
+More Books
+- TCP/IP Illustrated: The Protocols, Volume 1 by Kevin Fall & W. Stevens
+- PowerShell for Sysadmins: Workflow Automation Made Easy by Adam Bertram
+- Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming by Jason Cannon
