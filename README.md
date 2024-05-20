@@ -106,6 +106,7 @@ Podcasts
 - [Darknet Diaries](https://darknetdiaries.com/)
 - [Talkin' About News](https://podcasts.apple.com/us/podcast/talkin-about-infosec-news-powered-by-black-hills-information/id1410835265)
 - [The Cybersecurity Defenders Podcast](https://podcasts.apple.com/us/podcast/the-cybersecurity-defenders-podcast/id1649981740)
+- [Smashing Security](https://www.smashingsecurity.com/)
 
 Content Creators
 - https://grahamhelton.com/
