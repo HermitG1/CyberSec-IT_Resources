@@ -65,6 +65,13 @@ This list is by no means comprehensive or the perfect representation of the best
 - https://overthewire.org/wargames/
 - https://www.netresec.com/?page=NetworkMiner
 - https://portswigger.net/burp
+- https://github.com/gophish/gophish
+- https://www.kali.org/tools/responder/
+- https://github.com/gentilkiwi/mimikatz/
+- https://www.exploit-db.com/
+- https://www.rapid7.com/db/
+- https://github.com/redcanaryco/atomic-red-team
+- 
 
 <b> Blue Team Tools and Resources <b>
 - https://wazuh.com/
@@ -80,6 +87,9 @@ This list is by no means comprehensive or the perfect representation of the best
 - https://www.blackhillsinfosec.com/introducing-graphrunner/
 - https://github.com/olafhartong/sysmon-modular
 - https://github.com/secure-cake/rapid-endpoint-investigations
+- https://metadefender.opswat.com/
+- https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/attack-powered-suit/
+- https://github.com/SigmaHQ/sigma
 
 <b> Cryptography <b>
 - https://cryptohack.org/
