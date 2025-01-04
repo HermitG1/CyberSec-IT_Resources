@@ -1,7 +1,7 @@
 # CyberSecurityandmore_Resources
 
 I like many am attempting to build my career into cybersecurity and more.  I have acquired a lot of resources for different learning opportunities and resources.  I've been wanting to organize them and share them with others also looking to learn new skills and build a career. 
-This list is by no means comprehensive or the perfect representation of the best methods to learn something.  I hope that we can fine tune this and make it better.  I have broken down my experiences with some of these resources at my personal page https://github.com/HermitG1
+This list is by no means comprehensive or the perfect representation of the best methods to learn something.  I hope that we can fine tune this and make it better. 
 
 <b> Hands on CyberSec Learning Websites <b>
 - https://tryhackme.com/ (My personal favorite great when you only have an hour or two and want to engage in some learning)
